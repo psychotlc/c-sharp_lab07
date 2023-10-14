@@ -1,0 +1,15 @@
+/home/narek/Documents/C#/lab07/lab07/bin/Debug/net6.0/lab07
+/home/narek/Documents/C#/lab07/lab07/bin/Debug/net6.0/lab07.deps.json
+/home/narek/Documents/C#/lab07/lab07/bin/Debug/net6.0/lab07.runtimeconfig.json
+/home/narek/Documents/C#/lab07/lab07/bin/Debug/net6.0/lab07.dll
+/home/narek/Documents/C#/lab07/lab07/bin/Debug/net6.0/lab07.pdb
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.csproj.AssemblyReference.cache
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.AssemblyInfoInputs.cache
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.AssemblyInfo.cs
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.csproj.CoreCompileInputs.cache
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.dll
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/refint/lab07.dll
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.pdb
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/lab07.genruntimeconfig.cache
+/home/narek/Documents/C#/lab07/lab07/obj/Debug/net6.0/ref/lab07.dll

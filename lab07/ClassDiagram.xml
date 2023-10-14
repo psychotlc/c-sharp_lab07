@@ -1,0 +1,48 @@
+<ClassDiagram>
+  <Class name="Lion">
+    <Comment>This is a Lion</Comment>
+    <Property>System.String Country</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.AbstractClass.eClassificationAnimal WhatAnimal</Property>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal get_WhatAnimal()</Method>
+    <Method>Void set_WhatAnimal(AnimalClasses.AbstractClass.eClassificationAnimal)</Method>
+    <Method>AnimalClasses.AbstractClass.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal GetClassificationAnimal()</Method>
+  </Class>
+  <Class name="Cow">
+    <Comment>This is a Cow</Comment>
+    <Property>System.String Country</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.AbstractClass.eClassificationAnimal WhatAnimal</Property>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal get_WhatAnimal()</Method>
+    <Method>Void set_WhatAnimal(AnimalClasses.AbstractClass.eClassificationAnimal)</Method>
+    <Method>AnimalClasses.AbstractClass.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal GetClassificationAnimal()</Method>
+  </Class>
+  <Class name="Pig">
+    <Comment>This is a Pig</Comment>
+    <Property>System.String Country</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.AbstractClass.eClassificationAnimal WhatAnimal</Property>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal get_WhatAnimal()</Method>
+    <Method>Void set_WhatAnimal(AnimalClasses.AbstractClass.eClassificationAnimal)</Method>
+    <Method>AnimalClasses.AbstractClass.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal GetClassificationAnimal()</Method>
+  </Class>
+  <Enum name="eClassificationAnimal">
+    <Comment>eClassificationAnimal enum</Comment>
+  </Enum>
+  <Enum name="eFavoriteFood">
+    <Comment>eFavoriteFood enum</Comment>
+  </Enum>
+  <Class name="Animal">
+    <Comment>Abstract class</Comment>
+    <Property>System.String Country</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.AbstractClass.eClassificationAnimal WhatAnimal</Property>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal get_WhatAnimal()</Method>
+    <Method>Void set_WhatAnimal(AnimalClasses.AbstractClass.eClassificationAnimal)</Method>
+    <Method>AnimalClasses.AbstractClass.eClassificationAnimal GetClassificationAnimal()</Method>
+    <Method>AnimalClasses.AbstractClass.eFavoriteFood GetFavoriteFood()</Method>
+  </Class>
+</ClassDiagram>
